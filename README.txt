@@ -1,6 +1,8 @@
 To generate a graph generate a statically compiled binary and do following:
 $ ./graph_gen <file_path>
 This will generate a graph as a png and dot file with name graph_<filename>
+-------------------------------------------------------------------------
+Ignore below text
 
 -----------------old readme at the time of submission-------------
 #To compile the mbedtls benchmark statically, apply the patch named as patchfile inside the cloned benchmark repo and run the make file
